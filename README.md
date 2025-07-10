@@ -29,19 +29,10 @@ This project explores the **Capital Asset Pricing Model (CAPM)** using Python. I
 - Beta coefficient and its interpretation
 - Security Market Line (SML)
 - Risk-free rate, Market return, and Expected return
-- CAPM Formula:  
-  \[
-  \text{Expected Return} = R_f + \beta (R_m - R_f)
-  \]
+- CAPM Formula
 
 ## 📈 Output Example
 
 - Beta calculation for stocks like Apple, Microsoft, and S&P 500
 - Interactive time series plots of stock prices
 - CAPM-based expected return estimation
-
-## ✅ How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Rishi-Kakkar23/Python-for-Finance-Beta-and-Capital-Asset-Pricing-Model.git
